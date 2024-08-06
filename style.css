@@ -11,12 +11,11 @@
 
 body {
     background-color: rgb(24, 24, 24);
-    height: 100vh;
 }
 
 .interface {
     max-width: 1920px;
-    margin-left: auto;
+    margin-left: 10px;
 }
 
 .flex {
